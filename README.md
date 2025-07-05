@@ -5,7 +5,8 @@
 
 ## Featured Projects
 
-- [Superstore Retail Sales Dashboard – Power BI]([https://github.com/omar-beshr27/Retail-Sales-Analysis-Superstore](https://github.com/omar-beshr27/Retail-Sales-Analysis-Superstore))
+- [Superstore Retail Sales Dashboard – Power BI](https://github.com/omar-beshr27/Retail-Sales-Analysis-Superstore)
+
 
 ## Tools & Skills
 Power BI | Excel | SQL | Python | Jupyter Notebook | Data Visualization
